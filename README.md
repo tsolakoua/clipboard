@@ -10,3 +10,7 @@ $ python3 clipboard.py
 
 ### View Results
 
+Below you can see the file containing copied data.
+
+![alt text](demo.png)
+
